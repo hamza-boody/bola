@@ -14,20 +14,25 @@
 let b= prompt("Enter your num2")
 let o=prompt("enter your operation")
 
-    switch(o){
+    switch(o)
+    {
 
-        case"+": document.write(a+b)
+        case "+": document.write(a+b)
 
         break;
 
-        case"/": document.write(a/b)
+        case "/": 
+            document.write(a/b)
         break;
-        case"-": document.write(a-b)
+        case "-":
+            document.write(a-b)
             break;
 
-        case"*": document.write(a*b) 
+        case"*":
+            document.write(a*b) 
             break;
-case"%": document.write(a%b)
+        case "%": 
+            document.write(a%b)
     break;
 
 
