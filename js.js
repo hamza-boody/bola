@@ -41,4 +41,4 @@ default:
             break;
 
     }
-document.write("ana zahe2t")
+
