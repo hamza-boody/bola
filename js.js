@@ -1,15 +1,3 @@
-
-// // let i=0
-
-// // do{
-// //     document.write('hello guys');i++;
-
-// // }while(i>100)
-//     let i=2
-//     do{
-    
-//         document.write(Number(i));i+=2;
-//     }while(i<=10)
  let a=  prompt("enter your num1")
 let b= prompt("Enter your num2")
 let o=prompt("enter your operation")
