@@ -23,9 +23,11 @@ let o=prompt("enter your operation")
         case"/": document.write(a/b)
         break;
         case"-": document.write(a-b)
+            break;
 
-        case"*": document.write(a*b)
-case"%": document.write(a%b)
+        case"*": document.write(a*b) 
+            break;
+case"%": document.write(a%b) break;
 
 
 default:
