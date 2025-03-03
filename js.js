@@ -27,10 +27,13 @@ let o=prompt("enter your operation")
 
         case"*": document.write(a*b) 
             break;
-case"%": document.write(a%b) break;
+case"%": document.write(a%b)
+    break;
 
 
 default:
     document.write("you have an error")
+            break;
 
     }
+document.write("ana zahe2t")
